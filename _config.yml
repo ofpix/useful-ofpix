@@ -1,0 +1,9 @@
+theme: minima
+title: "OFPiX 有用"
+description: "OFPiX 子站"
+permalink: /:year/:month/:title/
+timezone: Asia/Shanghai
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
